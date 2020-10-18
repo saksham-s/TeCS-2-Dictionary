@@ -1,8 +1,8 @@
 # TeCS-2-Dictionary
 * Item Code for learning the Color, Shape, Texture and Symmetry Dictionaries.
-*We have also added the synthetic datasets we generated along with DTD[1].
-*Along with the datasets we have also included the learnt dictionaries. Using transform.py, a large numpy array for a dataset can be converted to the sparse dictionary learning based representation which can be used for recognition tasks.
-*We used an off the shelf DenseNet classfiier code which is easily availabel in multiple deep learning libraries.
+* Item We have also added the synthetic datasets we generated along with DTD[1].
+* Item Along with the datasets we have also included the learnt dictionaries. Using transform.py, a large numpy array for a dataset can be converted to the sparse dictionary learning based representation which can be used for recognition tasks.
+* Item We used an off the shelf DenseNet classfiier code which is easily availabel in multiple deep learning libraries.
 
 
 
